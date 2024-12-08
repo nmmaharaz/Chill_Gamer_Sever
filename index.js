@@ -55,7 +55,7 @@ async function run() {
       const result = await query.toArray();
       res.send(result);
     });
-// Hellow
+
     app.get("/myreview/:email", async (req, res) => {
       const email = req.params.email;
       const query = { email };
@@ -117,7 +117,7 @@ async function run() {
       const result = await mywishlistcollection.insertOne(addReview);
       res.send(result);
     });
-// hellow
+
     app.delete("/mywishlist/:id", async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) };
