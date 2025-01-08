@@ -1,4 +1,4 @@
-<h1 align="left">Chill Gamer is a Gaming Review Platform (Client Side)</h1>
+<h1 align="left">Chill Gamer is a Gaming Review Platform (Sevber Side)</h1>
 
 ###
 
@@ -111,6 +111,7 @@ npm i
 
 ###
 
-<p align="left">🔗 https://chill-game-8b0b0.web.app/</p>
+<p align="left">Client Side 🔗 https://chill-game-8b0b0.web.app/</p>
+<p align="left">Sever Side 🔗 [https://chill-game-8b0b0.web.app/](https://alta-car-rentals-server.vercel.app/)</p>
 
 ###
